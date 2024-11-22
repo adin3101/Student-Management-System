@@ -22,6 +22,11 @@ cd school-management-system
    npm start
    The server will run on http://localhost:5000.
 ```
+__Features__
+* Pagination for "Get All" endpoints.
+* Cloudinary integration for profile image uploads.
+* JWT-based authentication.
+* Detailed error handling and validation.
 
 __API Endpoints__
 
@@ -50,9 +55,4 @@ Classes:
 * PUT /api/classes/update/:id: Update a class by its ID.
 * DELETE /api/classes/delete/:id: Delete a class by its ID.
 
-__Features__
-* Pagination for "Get All" endpoints.
-* Cloudinary integration for profile image uploads.
-* JWT-based authentication.
-* Detailed error handling and validation.
 
