@@ -1,4 +1,4 @@
-# School Management System
+# Student Management System
 API Documentation: https://documenter.getpostman.com/view/37386561/2sAYBSkDjy
 
  __Setup Process__
